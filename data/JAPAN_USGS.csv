@@ -1,0 +1,56 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-18T17:19:22.820Z,29.3532,131.7393,10,4.6,mb,88,67,2.419,0.48,us,us6000ri1w,2025-10-21T17:14:20.040Z,"151 km SE of Koshima, Japan",earthquake,6.53,1.862,0.067,73,reviewed,us,us
+2025-10-17T20:28:15.014Z,29.8563,139.0664,416.83,4.6,mb,172,58,3.311,0.71,us,us6000rhyd,2025-10-21T14:57:26.040Z,"Izu Islands, Japan region",earthquake,9.54,5.983,0.034,254,reviewed,us,us
+2025-10-15T08:50:20.933Z,38.4953,141.2888,86.686,4.4,mb,34,155,2.298,0.94,us,us6000rh8z,2025-10-22T06:29:21.040Z,"8 km N of Ishinomaki, Japan",earthquake,9.3,4.581,0.13,18,reviewed,us,us
+2025-10-14T23:29:10.333Z,30.3762,138.2748,440.542,4.5,mb,59,99,3.029,0.41,us,us6000rh76,2025-10-15T00:42:51.040Z,"Izu Islands, Japan region",earthquake,11.38,7.633,0.034,261,reviewed,us,us
+2025-10-14T03:34:24.223Z,39.605,139.5058,11.325,4.6,mb,59,126,1.681,0.77,us,us6000rgzf,2025-10-14T05:34:11.866Z,"51 km SW of Tennō, Japan",earthquake,7.48,4.275,0.08,47,reviewed,us,us
+2025-10-13T03:25:44.134Z,38.5931,142.5944,38.354,4.7,mb,39,146,2.491,0.93,us,us6000rgtf,2025-10-17T17:24:20.495Z,"92 km SE of Ōfunato, Japan",earthquake,8.05,7.918,0.087,40,reviewed,us,us
+2025-10-11T03:22:00.952Z,30.3456,138.4539,432.857,4.8,mb,71,49,2.994,0.63,us,us6000rghz,2025-10-11T03:38:55.040Z,"Izu Islands, Japan region",earthquake,8.96,6.664,0.028,385,reviewed,us,us
+2025-10-10T22:06:36.054Z,41.7258,142.679,58.696,4.3,mb,35,164,0.459,1.12,us,us6000rggg,2025-10-10T22:34:36.040Z,"48 km S of Urakawa, Japan",earthquake,7.9,9.88,0.119,20,reviewed,us,us
+2025-10-07T21:38:37.324Z,29.2431,129.3903,10,5.3,mww,63,108,2.438,0.83,us,us6000rfh7,2025-10-07T23:28:05.040Z,"90 km NNW of Tatsugō, Japan",earthquake,3.96,1.851,0.052,36,reviewed,us,us
+2025-10-07T01:42:51.615Z,37.6701,144.1112,10,4.6,mb,45,134,3.911,0.94,us,us6000rf8c,2025-10-07T01:58:16.040Z,"249 km ESE of Onagawa Chō, Japan",earthquake,9.93,1.91,0.089,37,reviewed,us,us
+2025-10-07T01:17:17.241Z,37.8333,144.1149,10,4.7,mb,36,148,3.783,1.06,us,us6000rf80,2025-10-07T01:30:04.040Z,"243 km ESE of Onagawa Chō, Japan",earthquake,10.35,1.949,0.082,45,reviewed,us,us
+2025-10-07T00:30:23.986Z,37.5675,141.3033,49.324,5.1,mww,69,98,2.679,0.55,us,us6000rf7j,2025-10-07T04:10:38.146Z,"28 km ENE of Namie, Japan",earthquake,7.55,4.763,0.071,19,reviewed,us,us
+2025-10-06T20:02:43.141Z,27.2131,140.2644,442.455,4.1,mb,42,94,1.715,0.99,us,us6000rf64,2025-10-06T20:17:41.040Z,"Bonin Islands, Japan region",earthquake,8.92,9.428,0.069,58,reviewed,us,us
+2025-10-06T18:25:05.232Z,37.8565,144.0981,10,4.7,mb,53,130,3.756,0.82,us,us6000rf5k,2025-10-06T18:44:09.040Z,"241 km ESE of Onagawa Chō, Japan",earthquake,9.57,1.91,0.068,66,reviewed,us,us
+2025-10-06T14:57:59.833Z,37.7601,144.2022,10,4.9,mb,108,125,3.883,0.93,us,us6000rf34,2025-10-07T00:18:28.021Z,"253 km ESE of Onagawa Chō, Japan",earthquake,8.46,1.867,0.038,218,reviewed,us,us
+2025-10-06T14:20:28.882Z,37.7685,144.044,29.711,4.8,mb,81,91,3.8,0.54,us,us6000rf2y,2025-10-06T14:50:20.040Z,"239 km ESE of Onagawa Chō, Japan",earthquake,8.7,5.33,0.048,135,reviewed,us,us
+2025-10-04T15:21:09.034Z,37.4317,141.6389,43.855,5.9,mww,262,17,2.886,0.73,us,us6000resn,2025-10-09T16:25:39.788Z,"56 km E of Tomioka, Japan",earthquake,5.64,2.932,0.04,61,reviewed,us,us
+2025-10-04T14:15:19.580Z,39.7457,142.1935,53.247,4.5,mb,45,150,1.354,0.64,us,us6000resi,2025-10-04T16:11:26.040Z,"24 km ENE of Miyako, Japan",earthquake,7.7,6.396,0.102,29,reviewed,us,us
+2025-10-03T03:48:03.442Z,35.5187,139.9476,103.237,4.5,mb,37,131,1.74,1.33,us,us6000reeg,2025-10-08T20:57:54.805Z,"12 km W of Ichihara, Japan",earthquake,7.03,7.551,0.09,36,reviewed,us,us
+2025-10-01T23:02:50.231Z,28.4417,139.5746,421.007,4.2,mb,44,52,2.673,0.62,us,us6000re43,2025-10-01T23:24:29.040Z,"Bonin Islands, Japan region",earthquake,11.59,8.236,0.064,69,reviewed,us,us
+2025-10-01T19:26:13.602Z,33.4746,142.3962,10,4.5,mb,26,161,2.192,0.62,us,us6000re33,2025-10-01T19:53:45.040Z,"266 km SE of Katsuura, Japan",earthquake,10.34,1.941,0.15,13,reviewed,us,us
+2025-10-01T17:40:52.985Z,37.9951,143.9288,10,4.5,mb,39,161,3.565,0.61,us,us6000re2j,2025-10-01T19:33:33.040Z,"222 km ESE of Onagawa Chō, Japan",earthquake,7.1,1.835,0.106,26,reviewed,us,us
+2025-10-01T14:50:08.210Z,38.7068,141.8902,78.59,4.8,mb,107,121,2.175,0.46,us,us6000re09,2025-10-02T11:52:11.909Z,"43 km SSE of Ōfunato, Japan",earthquake,8.6,7.228,0.054,111,reviewed,us,us
+2025-09-29T17:28:03.936Z,37.9933,143.8436,10,4.6,mb,35,152,3.526,0.87,us,us6000rdm7,2025-10-19T18:46:29.040Z,"215 km ESE of Onagawa Chō, Japan",earthquake,7.55,1.925,0.097,34,reviewed,us,us
+2025-09-28T21:23:51.613Z,24.351,123.2832,60.439,4.5,mwr,41,66,0.274,0.69,us,us6000rdhr,2025-10-20T21:12:09.040Z,"31 km ESE of Yonakuni, Japan",earthquake,5.87,4.479,0.066,22,reviewed,us,us
+2025-09-28T07:04:22.458Z,29.7467,142.159,10,4.4,mb,45,129,2.641,0.74,us,us6000riav,2025-10-22T10:53:12.040Z,"Izu Islands, Japan region",earthquake,6.54,1.72,0.096,31,reviewed,us,us
+2025-09-28T06:35:20.239Z,29.6521,142.2359,10,4.1,mb,27,150,2.547,0.67,us,us6000riat,2025-10-22T08:20:36.040Z,"Izu Islands, Japan region",earthquake,10.38,1.449,0.131,16,reviewed,us,us
+2025-09-28T01:36:38.460Z,37.8141,144.1232,10,4.5,mb,44,136,3.802,0.86,us,us6000rddu,2025-10-23T01:29:21.040Z,"244 km ESE of Onagawa Chō, Japan",earthquake,9.7,1.898,0.102,29,reviewed,us,us
+2025-09-27T23:30:46.335Z,37.7572,144.3239,10,4.3,mb,17,159,3.945,0.39,us,us6000rhx6,2025-10-23T02:54:20.040Z,"263 km ESE of Onagawa Chō, Japan",earthquake,5.16,1.952,0.169,10,reviewed,us,us
+2025-09-27T23:29:02.854Z,37.7406,144.1271,10,4.5,mb,34,141,3.862,0.62,us,us6000rhx5,2025-10-23T02:29:19.040Z,"247 km ESE of Onagawa Chō, Japan",earthquake,9.56,1.922,0.121,20,reviewed,us,us
+2025-09-27T13:37:18.035Z,37.7661,144.1882,10,4.8,mb,31,133,3.871,0.87,us,us6000rdbz,2025-09-27T13:52:39.040Z,"251 km ESE of Onagawa Chō, Japan",earthquake,9.7,1.905,0.053,109,reviewed,us,us
+2025-09-26T10:34:30.644Z,37.9048,143.9906,10,4.6,mb,56,130,3.666,0.82,us,us6000rd45,2025-09-26T10:57:05.040Z,"230 km ESE of Onagawa Chō, Japan",earthquake,9.47,1.904,0.089,38,reviewed,us,us
+2025-09-25T17:01:00.816Z,30.9515,140.0817,10.041,4.6,mb,66,102,2.169,0.45,us,us6000rcvr,2025-10-18T19:26:14.040Z,"Izu Islands, Japan region",earthquake,6.19,3.423,0.079,48,reviewed,us,us
+2025-09-25T00:14:28.992Z,37.8154,144.1719,10,4.6,mb,41,100,3.825,1.1,us,us6000rcq4,2025-09-25T00:35:55.040Z,"248 km ESE of Onagawa Chō, Japan",earthquake,9.36,1.899,0.092,35,reviewed,us,us
+2025-09-24T18:03:16.520Z,38.9378,142.1058,57.31,4.7,mb,73,141,2.016,0.64,us,us6000rcm8,2025-10-20T15:33:42.040Z,"36 km ESE of Ōfunato, Japan",earthquake,8.86,6.923,0.075,53,reviewed,us,us
+2025-09-23T17:08:15.065Z,28.8164,128.5836,147.312,4.5,mb,45,66,1.992,0.77,us,us6000rcd7,2025-10-19T15:49:12.040Z,"85 km NW of Uken, Japan",earthquake,5.41,8.149,0.077,50,reviewed,us,us
+2025-09-22T21:51:34.178Z,36.4089,142.5801,10,4.5,mb,37,135,3.525,0.84,us,us6000rc6f,2025-10-21T02:19:30.040Z,"167 km ESE of Iwaki, Japan",earthquake,8.22,1.902,0.116,22,reviewed,us,us
+2025-09-20T21:47:23.395Z,40.2577,141.8514,46.237,4.4,mb,27,147,0.801,1.45,us,us6000rgxc,2025-10-18T02:38:04.040Z,"10 km NE of Kuji, Japan",earthquake,5.99,8.601,0.138,15,reviewed,us,us
+2025-09-20T11:23:42.761Z,25.4001,141.1153,147.669,4.6,mb,36,118,1.942,0.63,us,us6000rgwj,2025-10-16T09:32:43.040Z,"Volcano Islands, Japan region",earthquake,10.43,7.372,0.078,49,reviewed,us,us
+2025-09-20T04:46:33.888Z,24.0687,126.2927,10,4.8,mb,47,136,1.904,0.81,us,us7000qxif,2025-10-17T22:42:37.040Z,"127 km SE of Miyakojima, Japan",earthquake,8.44,1.91,0.071,63,reviewed,us,us
+2025-09-19T19:43:34.494Z,28.0704,139.5489,486.588,4.1,mb,105,55,2.533,0.74,us,us6000rgd4,2025-10-14T14:51:41.040Z,"Bonin Islands, Japan region",earthquake,7.76,7.754,0.058,80,reviewed,us,us
+2025-09-19T18:02:15.404Z,36.1945,140.8465,38.872,4.6,mb,67,124,2.157,0.67,us,us7000qxes,2025-10-17T17:12:28.487Z,"27 km ESE of Ōarai, Japan",earthquake,6.7,7.021,0.076,52,reviewed,us,us
+2025-09-19T17:38:38.859Z,28.0007,139.6694,503.77,4.1,mb,57,78,2.408,0.49,us,us6000rgdg,2025-10-13T17:32:02.040Z,"Bonin Islands, Japan region",earthquake,12.65,9.554,0.076,47,reviewed,us,us
+2025-09-18T18:39:21.040Z,35.4105,141.059,34.941,4.5,mb,47,137,2.511,0.82,us,us7000qx2f,2025-10-17T17:18:49.040Z,"41 km SSE of Hasaki, Japan",earthquake,7.55,6.425,0.109,25,reviewed,us,us
+2025-09-18T10:06:48.640Z,31.9974,131.8676,47.629,4.3,mb,35,92,1.3,0.96,us,us6000rg7h,2025-10-21T05:41:08.040Z,"37 km ESE of Takanabe, Japan",earthquake,5.79,8.272,0.142,16,reviewed,us,us
+2025-09-17T13:27:29.655Z,29.7534,129.6362,10,4.6,mb,35,113,1.886,0.62,us,us6000rg6e,2025-10-21T11:41:56.040Z,"95 km SW of Kurio, Japan",earthquake,6.77,1.883,0.119,21,reviewed,us,us
+2025-09-17T13:00:28.911Z,29.6194,129.599,10,4.9,mww,143,61,2.022,0.46,us,us7000qwny,2025-10-20T12:43:19.040Z,"107 km SW of Kurio, Japan",earthquake,6.51,1.843,0.103,9,reviewed,us,us
+2025-09-17T12:55:02.855Z,29.5916,129.679,8.368,4.9,mb,106,70,2.025,0.53,us,us7000qwnu,2025-10-12T06:51:25.040Z,"104 km SW of Kurio, Japan",earthquake,7.46,4.688,0.052,116,reviewed,us,us
+2025-09-17T12:53:28.547Z,29.5939,129.6537,10,4.6,mb,45,84,2.03,0.47,us,us6000rg66,2025-10-12T06:45:52.040Z,"105 km SW of Kurio, Japan",earthquake,7.48,1.904,0.098,31,reviewed,us,us
+2025-09-16T21:33:59.018Z,34.4855,139.4665,10,4.4,mb,25,130,1.397,0.72,us,us6000rfuj,2025-10-09T22:09:58.040Z,"52 km ESE of Shimoda, Japan",earthquake,4.43,1.899,0.162,11,reviewed,us,us
+2025-09-16T14:30:11.717Z,27.2748,140.3101,320.523,4,mb,41,57,1.679,0.79,us,us6000rfuf,2025-10-09T19:21:34.040Z,"Bonin Islands, Japan region",earthquake,10.21,8.259,0.089,34,reviewed,us,us
+2025-09-16T03:18:26.896Z,39.4926,143.3176,10,4.4,mb,34,136,2.159,0.66,us,us7000qwf4,2025-10-13T21:24:10.040Z,"117 km E of Yamada, Japan",earthquake,8.22,1.915,0.114,22,reviewed,us,us
+2025-09-15T19:00:07.860Z,37.6698,138.8388,185.842,4.3,mb,58,146,1.231,0.86,us,us7000qwcx,2025-10-09T16:42:27.040Z,"4 km WSW of Yoshida-kasugachō, Japan",earthquake,10.19,7.695,0.08,45,reviewed,us,us
+2025-09-15T08:43:13.175Z,36.9108,141.6126,35,4.2,mb,27,143,2.759,1.03,us,us6000rfmp,2025-10-14T13:22:55.040Z,"66 km ESE of Iwaki, Japan",earthquake,8.03,1.952,0.159,11,reviewed,us,us
+2025-09-15T04:34:46.286Z,38.487,142.0393,56.378,4.4,mb,67,133,2.419,0.87,us,us7000qw8z,2025-10-13T00:51:00.040Z,"51 km E of Onagawa Chō, Japan",earthquake,9.35,7.442,0.077,49,reviewed,us,us
